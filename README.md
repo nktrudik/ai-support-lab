@@ -1,7 +1,5 @@
 # AI Support Engineering Lab
 
-Учебный production-like проект для опытного ML/NLP Engineer, который хочет восстановить навык чтения Python backend, ML и LLM/agent кода перед собеседованиями. Один домен — support tickets. Основной режим работает на CPU, без API-ключей и скачивания LLM.
-
 Начните с [маршрута чтения](docs/CODE_READING_GUIDE.md). Архитектурные компромиссы записаны в [DECISIONS](docs/DECISIONS.md), фактически выполненные проверки — в [VERIFICATION](docs/VERIFICATION.md).
 
 ## What this repository teaches
